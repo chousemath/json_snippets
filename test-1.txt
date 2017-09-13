@@ -1,1 +1,1 @@
-{"ok": true, "message": "hello world"}
+hello
